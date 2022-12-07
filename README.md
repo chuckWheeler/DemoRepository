@@ -1,5 +1,5 @@
 # DemoRepository
 Demo of Github and Git capabilities.
 
-##Documentation
+## Documentation
 Documentaion in Github is created with markdown files. 
